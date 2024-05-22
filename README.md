@@ -1,6 +1,6 @@
 # Persona UI in Unreal
 work in progress...
-# Different Parts of the Unique UI:
+## Different Parts of the Unique UI:
 1. Pause Menu [P5|P3R]
 2. Main HUD
 3. Shopping UI
